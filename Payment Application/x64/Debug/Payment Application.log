@@ -1,0 +1,7 @@
+﻿  app.c
+J:\Courses\Embedded FWD\Project 1\Payment Application\Payment Application\Payment Application\Application\app.c(54,6): warning C4013: 'gets' undefined; assuming extern returning int
+J:\Courses\Embedded FWD\Project 1\Payment Application\Payment Application\Payment Application\Application\app.c(132,3): warning C4013: 'exit' undefined; assuming extern returning int
+J:\Courses\Embedded FWD\Project 1\Payment Application\Payment Application\Payment Application\Application\app.c(492,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\Courses\Embedded FWD\Project 1\Payment Application\Payment Application\Payment Application\Application\app.c(513,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\Courses\Embedded FWD\Project 1\Payment Application\Payment Application\Payment Application\Application\app.c(538,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Payment Application.vcxproj -> J:\Courses\Embedded FWD\Project 1\Payment Application\Payment Application\x64\Debug\Payment Application.exe
